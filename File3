@@ -1,0 +1,3 @@
+#Name input and display
+read name
+echo "Your Name = $name"
